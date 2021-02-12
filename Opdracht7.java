@@ -12,14 +12,11 @@ public class Opdracht7 {
 	String letter = Character.toString(text.charAt(i));
 	if(woord.contains(letter)){
 		Gok[i]=1;
-	
 	}
 	
 	if(woord.charAt(i)==text.charAt(i)) {
 		Gok[i]=2;
 	}
-
-		
 	}
 	System.out.print(text);
 	System.out.println(Arrays.toString(Gok));
