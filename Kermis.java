@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 
-
+//Bij stap 3 blijven hangen met interface maar ik ben nog steeds benieuwd wat u er van vindt.
 
 public class Kermis {
 	public static void main(String[] args) {
